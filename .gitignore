@@ -10,3 +10,5 @@ web/out/
 
 *.log
 .DS_Store
+
+web/.git_backup_for_root_push/
